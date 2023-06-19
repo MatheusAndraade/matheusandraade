@@ -1,4 +1,3 @@
-</br>
 <img align="right" height="350em" width="350em" src="assets/capivara.png"/>
 <h1 align="left">Oi, eu sou o Matheus</h1>
 
@@ -12,7 +11,7 @@
  
 </br>
 
-<a href="https://www.linkedin.com/in/wagnerferreiracosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/MatheusAndraade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br>
 
@@ -30,7 +29,7 @@
 ## ⚙️ &nbsp;Infos
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandraade&layout=compact&theme=tokyonight" alt="Tecnologias usadas por Matheus"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusandraade&layout=compact&theme=tokyonight" alt="Tecnologias usadas por Matheus"/>
 </p>
 
-![Snake animation](https://github.com/wagaofc/wagaofc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wagaofc/matheusandraade/blob/output/github-contribution-grid-snake.svg)
