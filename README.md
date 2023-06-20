@@ -1,4 +1,4 @@
-<img align="right" height="350em" width="350em" src="assets/capivara.png"/>
+<img align="right" height="500em" width="500em" src="assets/capivara.png"/>
 <h1 align="left">Oi, eu sou o Matheus</h1>
 
 
